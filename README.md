@@ -1070,3 +1070,4 @@ Unfairness is relativyly high at first. Unfairness reduces overtime.
 
 
 ## Question 4
+Shorter qunatum increases fairness
